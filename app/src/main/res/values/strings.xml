@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pendaftaran Duta Polinema</string>
+
+    <array name="jk">
+        <item>Wanita</item>
+        <item>Pria</item>
+    </array>
+
+    <array name="juara">
+        <item>Juara 1</item>
+        <item>Juara 2</item>
+        <item>Juara 3</item>
+        <item>Juara Favorit</item>
+        <item>Juara Berbakat</item>
+        <item>Juara Persahabatan</item>
+        <item>Juara Harapan 1</item>
+        <item>Juara Harapan 2</item>
+    </array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_duta_home">Pendaftaran Duta Polinema</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
