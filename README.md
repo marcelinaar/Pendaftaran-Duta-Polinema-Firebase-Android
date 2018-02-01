@@ -14,7 +14,7 @@ FITUR:
 
 Data Calon Duta Polinema
 
-CRUD Prestasi
+Data Prestasi
 
 Upload Scan/Foto
 
